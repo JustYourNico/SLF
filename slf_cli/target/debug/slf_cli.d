@@ -1,1 +1,1 @@
-C:\Users\Nico\Dokumente\Coding\SLF\slf_cli\target\debug\slf_cli.exe: C:\Users\Nico\Dokumente\Coding\SLF\slf_cli\src\main.rs
+/home/timo/github/SLF/slf_cli/target/debug/slf_cli: /home/timo/github/SLF/slf_cli/src/main.rs
